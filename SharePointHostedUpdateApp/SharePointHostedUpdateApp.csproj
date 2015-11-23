@@ -43,10 +43,19 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="ListaContatos\ListaContatosInstance\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{9fa654a7-b5ee-48f1-9871-24e4f28f4fa6}</SharePointProjectItemId>
+    </None>
+    <None Include="ListaContatos\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{22c56425-a64c-4b55-b716-b47616920015}</SharePointProjectItemId>
+    </None>
     <None Include="packages.config" />
     <None Include="Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{67d2c19c-a957-4d4d-82d9-b1b70e54924f}</SharePointProjectItemId>
     </None>
+    <Content Include="ListaContatos\Elements.xml" />
+    <Content Include="ListaContatos\ListaContatosInstance\Elements.xml" />
+    <Content Include="ListaContatos\Schema.xml" />
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
   </ItemGroup>
