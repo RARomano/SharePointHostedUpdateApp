@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="2a892401-b37c-4207-a958-ce88b1d9d9d8" 
+        solutionId="2a892401-b37c-4207-a958-ce88b1d9d9d8" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePointHostedUpdateApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="b22ea967-a50e-4ec6-a39f-f363566fcf8f" />
+  </features>
+</package>
